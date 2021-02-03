@@ -1,6 +1,7 @@
-# Smoochum ![made-with-C](https://img.shields.io/badge/Made%20With-C-success)
+# Smoochum : A Miniature Version Of The (In)famous [Jynx](https://github.com/chokepoint/Jynx2) Rootkit
 
-A miniature version of the (in)famous [Jynx](https://github.com/chokepoint/Jynx2) Rootkit
+![made-with-C](https://img.shields.io/badge/Made%20With-C-success)
+
 
 ![](https://assets.pokemon.com/assets/cms2/img/watch-pokemon-tv/seasons/season09/season09_ep23_ss01.jpg)
 
