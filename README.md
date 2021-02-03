@@ -1,4 +1,4 @@
-# Smoochum [![made-with-C](https://img.shields.io/badge/Made%20With-C-success)]
+# Smoochum ![made-with-C](https://img.shields.io/badge/Made%20With-C-success)
 
 A miniature version of the (in)famous [Jynx](https://github.com/chokepoint/Jynx2) Rootkit
 
